@@ -10,8 +10,23 @@ export default {
       type: "string",
     },
     {
-      name: "desc",
-      title: "Desc",
+      name: "desc1",
+      title: "Desc 1",
+      type: "string",
+    },
+    {
+      name: "desc2",
+      title: "Desc 2",
+      type: "string",
+    },
+    {
+      name: "desc3",
+      title: "Desc 3",
+      type: "string",
+    },
+    {
+      name: "desc4",
+      title: "Desc 4",
       type: "string",
     },
   ],
